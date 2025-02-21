@@ -1,10 +1,2 @@
 #Временные файлы
-*.o
-*.out
-*.tmp
-*.log
-*.exe
-
-#Системные файлы
-.DS_Store
-.vscode/
+.build/
